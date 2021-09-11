@@ -1,2 +1,2 @@
-# Appointment-Sceduler
+# Appointment-Scheduler
 Web Application for booking Doctor's Appointment
